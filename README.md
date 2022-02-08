@@ -5,7 +5,8 @@ This is a release and modifying from others sources available.
 
 1. Insert on [ressources]
 2. Add this to server.cfg
-ensure nocarflip
+
+**ensure nocarflip**
 
 - You can't control vehicle when is in the air.
 - You can't control vehicle when is turned upside down.
