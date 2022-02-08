@@ -3,8 +3,8 @@ Disable car flip vehicle and air control vehicle when jumping.
 
 This is a release and modifying from others sources available.
 
-Insert on [ressources]
-
+1. Insert on [ressources]
+2. Add this to server.cfg
 ensure nocarflip
 
 - You can't control vehicle when is in the air.
